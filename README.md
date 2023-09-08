@@ -29,4 +29,4 @@
       * javac Main.java
       * java  Main.java
       
-      ![image](https://github.com/Harshshah28/CoffeeMachine_Project/assets/113374284/668c37f3-71f4-47c4-89bf-61d0854f8410)
+      
